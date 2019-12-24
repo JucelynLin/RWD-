@@ -1,0 +1,10 @@
+.full {
+  width:100%;
+  box-sizing: border-box;
+ 
+}
+
+@media only screen and (max-width:767px ) {
+  .mr-2 {
+    margin-left: 10px !important;
+  }
